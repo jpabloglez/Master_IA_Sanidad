@@ -1,0 +1,12 @@
+# Material local no versionado (Modulo_3 y datos de referencia)
+local_*.zip
+local_*/
+refs/
+
+# Ficheros de sistema
+.DS_Store
+
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
